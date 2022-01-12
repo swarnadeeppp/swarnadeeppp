@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swarnadeeppp
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on web designs. 
 - 📫 How to reach me ig swarnadeeppp
 
