@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on web designs. 
-- 📫 How to reach me ig swarnadeeppp
+- 📫 How to reach me ig deeppp
 
 <!---
 swarnadeeppp/swarnadeeppp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
